@@ -10,9 +10,6 @@
 
 <p align="center">
   <a href="https://hoangnhan19032004.github.io/Galaxylovemain_HN/"><img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Now-blue?style=for-the-badge"></a>
-  <a href="https://github.com/HoangNhan/Galaxy-love/stargazers"><img src="https://img.shields.io/github/stars/HoangNhan/Galaxy-love?color=ff69b4&style=for-the-badge"></a>
-  <a href="https://github.com/HoangNhan/Galaxy-love/issues"><img src="https://img.shields.io/github/issues/HoangNhan/Galaxy-love?color=yellow&style=for-the-badge"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/github/license/HoangNhan/Galaxy-love?color=green&style=for-the-badge"></a>
 </p>
 
 ---
@@ -44,10 +41,7 @@
 ## 📦 Installation
 ```bash
 # Clone this repository
-git clone https://github.com/HoangNhan/Galaxy-love.git
-
-# Navigate into the project
-cd Galaxy-love
+git clone https://github.com/hoangnhan19032004/Galaxylovemain_HN.git
 
 # Open in browser
 start index.html   # Windows
